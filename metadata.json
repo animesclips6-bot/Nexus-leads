@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS LEADS AI",
+  "description": "Plataforma SaaS profissional de prospecção B2B no Google Maps com qualificação de leads por inteligência artificial Claude e CRM integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
